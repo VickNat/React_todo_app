@@ -1,3 +1,7 @@
+#Description
+
+This is a straightforward Todo app created with React and TypeScript. The app allows users to add, edit, and delete tasks. It uses local state to manage the list of tasks and keeps the UI updated in real-time.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
